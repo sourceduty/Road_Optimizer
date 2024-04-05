@@ -12,7 +12,7 @@
 
 5. Enhanced Safety and Efficiency: The ultimate aim of Road Optimizer is to contribute to creating safer and more efficient roadways. By identifying issues and recommending improvements, it plays a key role in enhancing the overall quality and safety of transportation infrastructure.
 
-6. Request for Clarifications or Detailed Images: If the information provided is not clear or detailed enough for an accurate assessment, "Road Optimizer" can request further clarifications or more detailed images. Having clear visuals is crucial for making precise analyses and recommendations.
+6. Request for Clarifications or Detailed Images: If the information provided is not clear or detailed enough for an accurate assessment, Road Optimizer can request further clarifications or more detailed images. Having clear visuals is crucial for making precise analyses and recommendations.
 
 By leveraging Road Optimizer, cities, towns, and road maintenance organizations can significantly improve the safety and efficiency of their roadways, ultimately benefiting all road users.
 
