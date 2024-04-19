@@ -77,4 +77,9 @@ In the development phase, the portal's front-end and back-end components are bui
 Deployment involves hosting the portal on a reliable cloud platform such as AWS or Google Cloud, followed by the establishment of a maintenance plan for regular updates and support. Comprehensive documentation and training materials are provided to aid users in utilizing the portal effectively. Feedback from road working departments guides iterative improvements to enhance functionality and usability over time. Through this structured approach, a robust Google Roads portal is created, enabling efficient access to Google Street View data for road optimization tasks.
 
 ***
+### Related Links
+
+[Project Sidewalk](https://sidewalk-sea.cs.washington.edu/?referrer=scistarter)
+
+***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
