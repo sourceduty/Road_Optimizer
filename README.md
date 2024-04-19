@@ -77,9 +77,12 @@ In the development phase, the portal's front-end and back-end components are bui
 Deployment involves hosting the portal on a reliable cloud platform such as AWS or Google Cloud, followed by the establishment of a maintenance plan for regular updates and support. Comprehensive documentation and training materials are provided to aid users in utilizing the portal effectively. Feedback from road working departments guides iterative improvements to enhance functionality and usability over time. Through this structured approach, a robust Google Roads portal is created, enabling efficient access to Google Street View data for road optimization tasks.
 
 ***
-### Related Links
 
-[Project Sidewalk](https://sidewalk-sea.cs.washington.edu/?referrer=scistarter)
+### Project Sidewalk
+
+![Project Sidewalk](https://github.com/sourceduty/Road_Optimizer/assets/123030236/0ba2a4f1-77ae-4beb-b73b-023c4b15b3b2)
+
+[Project Sidewalk](https://sidewalk-sea.cs.washington.edu/?referrer=scistarter)  is an innovative initiative led by the University of Washington's Makeability Lab. It aims to map and improve sidewalk accessibility for people with mobility impairments using a web-based tool that leverages crowdsourcing and Google Street View. Volunteers from around the world can participate by virtually navigating city streets and identifying accessibility issues, such as missing curb ramps or blocked pathways. The data collected is made publicly available and is used by city governments to prioritize sidewalk repairs and by researchers to develop machine learning algorithms that can automatically detect accessibility problems. This project not only enhances urban planning and civic engagement but also serves as a vital tool for advocating for better infrastructure to support community accessibility needs.
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
