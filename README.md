@@ -70,6 +70,8 @@ This custom GPT is a good and simple example of AI-driven road optimization. Lev
 #
 ### Google Roads Concept
 
+![Google Earth](https://github.com/user-attachments/assets/35fe62f5-09a5-4d8d-9a47-7eb69f28166d)
+
 Developing a Google Roads portal for public road working departments involves comprehensive planning and execution. Initially, thorough research and requirements gathering are necessary to understand the needs of these departments and ensure compliance with legal and privacy considerations regarding Google Street View data usage. Designing an efficient architecture with scalable technology stacks like React.js for the front-end and appropriate back-end services is crucial. Additionally, integrating the Google Street View API is essential to access street-level imagery and metadata for analysis.
 
 In the development phase, the portal's front-end and back-end components are built, along with optimization tools for road condition assessment and annotation features. User management and access control mechanisms are implemented to regulate user permissions based on roles. Ensuring privacy and security compliance through encryption, secure communication protocols, and regular audits is paramount. Thorough testing, including performance testing, is conducted to identify and rectify any bugs or issues before deployment.
