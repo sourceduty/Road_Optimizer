@@ -90,7 +90,7 @@ Deployment involves hosting the portal on a reliable cloud platform such as AWS 
 [Project Sidewalk](https://sidewalk-sea.cs.washington.edu/?referrer=scistarter)  is an innovative initiative led by the University of Washington's Makeability Lab. It aims to map and improve sidewalk accessibility for people with mobility impairments using a web-based tool that leverages crowdsourcing and Google Street View. Volunteers from around the world can participate by virtually navigating city streets and identifying accessibility issues, such as missing curb ramps or blocked pathways. The data collected is made publicly available and is used by city governments to prioritize sidewalk repairs and by researchers to develop machine learning algorithms that can automatically detect accessibility problems. This project not only enhances urban planning and civic engagement but also serves as a vital tool for advocating for better infrastructure to support community accessibility needs.
 
 #
-### Sidewalk Origin
+### Stonewalks
 
 ![Sidewalk](https://github.com/user-attachments/assets/66d7fd59-a4b6-43ab-a2e7-d80d73fd62c6)
 
