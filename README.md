@@ -1,5 +1,8 @@
 ![Example_Analysis](https://github.com/sourceduty/Road_Optimizer/assets/123030236/a2bec0d3-8398-444e-9ca8-84d60ce36510)
 
+> Identify roadway errors and improvement areas from images.
+#
+
 [Road Optimizer](https://chat.openai.com/g/g-LjAxDdlH9-road-optimizer) is designed to enhance road safety and efficiency by conducting detailed inspections of roadways to identify errors and areas for improvement. Here's how it works and how it can help:
 
 1. Focus on One Road at a Time: To ensure thoroughness, Road Optimizer analyzes one specific road in detail before moving onto another, allowing for a focused and systematic approach.
